@@ -1,0 +1,3 @@
+#  Samples
+
+A static template for listing work samples. Has styling for project titles, summaries, and links to code samples. Example: [**samples.jonchretien.com**](http://samples.jonchretien.com)

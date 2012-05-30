@@ -1,0 +1,14 @@
+# OS generated files #
+######################
+.DS_Store
+Icon
+Thumbs.db
+
+# Images #
+######################
+*.ico
+img/
+
+# Misc. #
+######################
+.htaccess
